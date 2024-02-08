@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "GoldRush Wallet and Portfolio UI",
+  name: "Demo.eth Wallet and Portfolio UI",
   description:
     "Beautifully designed components built with Radix UI and Tailwind CSS.",
   mainNav: [
